@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/edurusoy/farmersfinest.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/edurusoy/farmersfinest.github.io/static/js/main.113ed71b.chunk.js",
+    "main.js.map": "/edurusoy/farmersfinest.github.io/static/js/main.113ed71b.chunk.js.map",
+    "runtime-main.js": "/edurusoy/farmersfinest.github.io/static/js/runtime-main.127da173.js",
+    "runtime-main.js.map": "/edurusoy/farmersfinest.github.io/static/js/runtime-main.127da173.js.map",
+    "static/js/2.1e61784d.chunk.js": "/edurusoy/farmersfinest.github.io/static/js/2.1e61784d.chunk.js",
+    "static/js/2.1e61784d.chunk.js.map": "/edurusoy/farmersfinest.github.io/static/js/2.1e61784d.chunk.js.map",
+    "static/js/3.17ba0bac.chunk.js": "/edurusoy/farmersfinest.github.io/static/js/3.17ba0bac.chunk.js",
+    "static/js/3.17ba0bac.chunk.js.map": "/edurusoy/farmersfinest.github.io/static/js/3.17ba0bac.chunk.js.map",
+    "index.html": "/edurusoy/farmersfinest.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/edurusoy/farmersfinest.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.1e61784d.chunk.js.LICENSE.txt": "/edurusoy/farmersfinest.github.io/static/js/2.1e61784d.chunk.js.LICENSE.txt",
+    "static/media/Apricots.15e7a2c7.jpg": "/edurusoy/farmersfinest.github.io/static/media/Apricots.15e7a2c7.jpg",
+    "static/media/customerpage.18ab9829.jpg": "/edurusoy/farmersfinest.github.io/static/media/customerpage.18ab9829.jpg",
+    "static/media/farmerpage.c5a4a80d.png": "/edurusoy/farmersfinest.github.io/static/media/farmerpage.c5a4a80d.png",
+    "static/media/signuppage.df97c317.jpg": "/edurusoy/farmersfinest.github.io/static/media/signuppage.df97c317.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.127da173.js",
+    "static/js/2.1e61784d.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.113ed71b.chunk.js"
+  ]
+}
